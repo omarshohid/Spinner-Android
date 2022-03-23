@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Food Menu Selection</string>
+    <string name="btn_add">Add</string>
+    <string name="select_category">Select a Food category and press the view button to view Food items</string>
+    <string-array name="food_category">
+        <item>Select Food Category</item>
+        <item>Appetizer</item>
+        <item>Burger</item>
+        <item>Pasta</item>
+        <item>Sandwich</item>
+        <item>Crab</item>
+        <item>Pizza</item>
+    </string-array>
+
+    <string-array name="no_of_item">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
